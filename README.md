@@ -45,7 +45,7 @@ This project was developed as part of the **CS50 Web Programming with Python and
 4. Access the project on your browser at http://127.0.0.1:8000/.
 
 ## Video Demo
-A video demonstrating the functionality of the project can be found here: https://youtu.be/P3xU2vHeiYI
+A video demonstrating the functionality of the project can be found here: https://youtu.be/ljbGpagAlOc
 
 ## Acknowledgements
 This project was completed as part of the CS50 Web Programming with Python and JavaScript course at Harvard University.
