@@ -1,11 +1,11 @@
 {% extends "encyclopedia/layout.html" %}
 
 {% block title %}
-    Resultados de búsqueda
+    Search results
 {% endblock %}
 
 {% block body %}
-    <h1>Resultados de búsqueda para "{{ query }}"</h1>
+    <h1>Search results for "{{ query }}"</h1>
 
     {% if results %}
         <ul>
@@ -14,6 +14,6 @@
             {% endfor %}
         </ul>
     {% else %}
-        <p>No se encontraron resultados.</p>
+        <p>No results found.</p>
     {% endif %}
 {% endblock %}

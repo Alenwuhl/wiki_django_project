@@ -1,1 +1,0 @@
-This is the correct way to create a new entry.
